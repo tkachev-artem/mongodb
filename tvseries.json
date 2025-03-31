@@ -1,0 +1,67 @@
+[  
+  {
+    "title": "Слово пацана",
+    "lastTitle": "The Boy's Word",
+    "country": "Россия",
+    "genre": "Драма",
+    "ageLimits": 18,
+    "startDate": "2024-01-15",
+    "releaseDate": "2024-01-15",
+    "rating": 8.4,
+    "trailer": "https://youtube.com/slovo-patsana-trailer",
+    "cover": "slovo-patsana-cover.jpg",
+    "studio": 1
+  },
+  {
+    "title": "Монастырь 2",
+    "lastTitle": "The Monastery 2",
+    "country": "Россия",
+    "genre": "Драма, Детектив",
+    "ageLimits": 16,
+    "startDate": "2024-03-20",
+    "releaseDate": "2024-03-20",
+    "rating": 7.9,
+    "trailer": "https://youtube.com/monastyr-2-trailer",
+    "cover": "monastyr-2-cover.jpg",
+    "studio": 2
+  },
+  {
+    "title": "Капитан Волконогов вернулся",
+    "lastTitle": "Captain Volkonogov Escaped",
+    "country": "Россия",
+    "genre": "Драма, Исторический",
+    "ageLimits": 16,
+    "startDate": "2024-02-10",
+    "releaseDate": "2024-02-10",
+    "rating": 7.8,
+    "trailer": "https://youtube.com/kapitan-volkonogov-trailer",
+    "cover": "kapitan-volkonogov-cover.jpg",
+    "studio": 3
+  },
+  {
+    "title": "Наследие",
+    "lastTitle": "Legacy",
+    "country": "Россия",
+    "genre": "Триллер, Детектив",
+    "ageLimits": 16,
+    "startDate": "2024-04-05",
+    "releaseDate": "2024-04-05",
+    "rating": 8.1,
+    "trailer": "https://youtube.com/nasledie-trailer",
+    "cover": "nasledie-cover.jpg",
+    "studio": 1
+  },
+  {
+    "title": "Король и Шут 2",
+    "lastTitle": "Korol i Shut 2",
+    "country": "Россия",
+    "genre": "Биография, Музыкальный",
+    "ageLimits": 18,
+    "startDate": "2025-01-15",
+    "releaseDate": "2025-01-15",
+    "rating": 8.6,
+    "trailer": "https://youtube.com/korol-i-shut-2-trailer",
+    "cover": "korol-i-shut-2-cover.jpg",
+    "studio": 2
+  }
+] 
