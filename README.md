@@ -32,8 +32,6 @@ sudo systemctl start mongod
 # Проверка статуса
 sudo systemctl status mongod
 
-
-
 ## Установка приложения
 ```bash
 # Клонирование репозитория
